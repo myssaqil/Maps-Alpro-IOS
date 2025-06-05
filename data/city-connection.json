@@ -1,0 +1,16 @@
+{
+  "jalur": {
+    "Jakarta": ["Bandung", "Semarang", "Palembang", "Pontianak"],
+    "Bandung": ["Jakarta", "Yogyakarta", "Semarang"],
+    "Semarang": ["Jakarta", "Bandung", "Yogyakarta", "Surabaya"],
+    "Surabaya": ["Yogyakarta", "Semarang", "Bali", "Makassar", "Malang", "Banyuwangi"],
+    "Malang": ["Yogyakarta", "Surabaya", "Banyuwangi"],
+    "Yogyakarta": ["Malang", "Bandung", "Semarang", "Surabaya"],
+    "Banyuwangi": ["Malang", "Surabaya", "Bali"],
+    "Bali": ["Surabaya", "Makassar", "Lombok", "Banyuwangi"],
+    "Makassar": ["Surabaya", "Bali", "Pontianak"],
+    "Pontianak": ["Jakarta", "Palembang", "Makassar", "Medan"],
+    "Palembang": ["Jakarta", "Pontianak", "Medan"],
+    "Medan": ["Palembang", "Pontianak"]
+  }
+}

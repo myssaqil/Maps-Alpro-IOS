@@ -1,0 +1,15 @@
+[
+  {"nama": "Jakarta", "lat": -6.2088, "lon": 106.8456},
+  {"nama": "Bandung", "lat": -6.9175, "lon": 107.6191},
+  {"nama": "Surabaya", "lat": -7.2575, "lon": 112.7521},
+  {"nama": "Semarang", "lat": -7.0051, "lon": 110.4381},
+  {"nama": "Yogyakarta", "lat": -7.7972, "lon": 110.3688},
+  {"nama": "Medan", "lat": 3.5952, "lon": 98.6722},
+  {"nama": "Palembang", "lat": -2.9909, "lon": 104.7566},
+  {"nama": "Makassar", "lat": -5.1477, "lon": 119.4327},
+  {"nama": "Bali", "lat": -8.3405, "lon": 115.0920},
+  {"nama": "Pontianak", "lat": -0.0263, "lon": 109.3425},
+  {"nama": "Lombok", "lat": -8.6525, "lon": 116.3499},
+  { "nama": "Malang", "lat": -7.9819, "lon": 112.6265 },
+    { "nama": "Banyuwangi", "lat": -8.2192, "lon": 114.3691 }
+]
